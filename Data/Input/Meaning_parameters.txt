@@ -1,0 +1,18 @@
+N 		-> Number of agents in the system 
+D 		-> Lenght of the entire space (it is a square)
+L		-> Number of locations in the system 
+Rcmin		-> Minimum radius of the locations (they are circles)
+Rcmax		-> Maximum radius of the locations (they are circles)
+rmin		-> Minimum agents' radius of interaction (they are circles)
+rmax		-> Maximum agents' radius of interaction (they are circles)
+omega		-> exponent of the distribution of the radii of the agent's radius of interactions
+gamma		-> exponent of the distribution of the radii of the radius of the locations
+vexp		-> velocity outside the location
+Lambda		-> infection rate
+mu		-> recovery rate
+perc_Infected	-> percentage of individuals infected at the beginning of the spreading 
+c		-> 1/(vexp*c) corresponds to the average distance of the jump 
+Steady_state	-> steps the agents move in order to reach the steady state condition
+pjump		-> probability of jumping outside the location
+noise		-> noise term (alpha in the paper)
+delta_t		-> discrete time step (set equal to 1 in the paper)

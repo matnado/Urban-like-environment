@@ -1,0 +1,2 @@
+N	D		L	Rcmin	Rcmax	rmin	rmax	omega	gamma	vexp	Lambda	mu	perc_Infected	c	Steady_state	pjump	noise	delta_t
+10000	1000000000	100	100	10000	1	1000	2.4	2.1	500	0.15	0.1	0.01		5.     	100		0.1	0.	1.
